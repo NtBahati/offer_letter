@@ -1,0 +1,1 @@
+in terraform.tfvars, the subnet is default one, when we creat our vpc, we will need to replace this. 
