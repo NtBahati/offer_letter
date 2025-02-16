@@ -20,9 +20,9 @@ variable "common_tags" {
   description = "Common tags to apply to all resources"
   type        = map(string)
   default = {
-    Name    = "homework"
-    project = "ec2-terraform"
-    owner   = "DEL"
-    env     = "dev"
+    Name = "offer"
+    project = "terraform"
+    owner = "DEL"
+    env = "dev"
   }
 }
